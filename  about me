@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>	
+<title>Eric</title>
+<meta charset="utf-8">
+
+
+</head>
+
+
+<body>
+<header>Eric Dubois </header>
+
+<nav>
+<a href="index.html">Home</a>
+<a href="hobbies.html">Hobbies</a>&nbsp;
+<a href="contact.html">Contact me</a>&nbsp;&nbsdp;
+</nav>
+
+<main>
+<h4>Contact Me</H4>
+<p>Room 123, Huntress<br>
+Keene, NH-03435<br>
+Email <a href="mailto:eric.dubois@ksc.keene.edu">eric.dubois@ksc.keene.edu</a>
+</p>
+</main>
+<footer>
+<p> copyright &copy;2019 Eric Dubois </p>
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
